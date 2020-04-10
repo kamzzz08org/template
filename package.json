@@ -4,4 +4,5 @@
             "flowFile": "flows.json",
             "credentialsFile": "flows_cred.json"
         }
+  }
 }
