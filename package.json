@@ -1,4 +1,6 @@
 {
+  "description": "A LTI-MosaicThings Workbench Project",
+  "dependencies": {},
   "node-red": {
         "settings": {
             "flowFile": "flows.json",
